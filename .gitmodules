@@ -1,0 +1,3 @@
+[submodule "Upstream-Framework"]
+	path = Upstream-Framework
+	url = git@github.com:GitTrainingTeam/Upstream-Framework.git
